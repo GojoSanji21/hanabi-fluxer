@@ -31,7 +31,7 @@ OWNER = os.environ.get("OWNER", "urr_sanjiii")
 #OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", "1683225887"))
 #Port
-PORT = os.environ.get("PORT", "1194")
+PORT = os.environ.get("PORT", "5008")
 #Database
 DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://sagatobots00001:sagatobots100@cluster00001.vgdshkw.mongodb.net/?retryWrites=true&w=majority")
 DB_NAME = os.environ.get("DATABASE_NAME", "Hanabi_Hyuga_Probot")
